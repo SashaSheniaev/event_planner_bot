@@ -1,1 +1,0 @@
-# event_planner_bot
